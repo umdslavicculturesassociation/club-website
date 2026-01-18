@@ -1,0 +1,12 @@
+title: Welcome
+blocks: 
+  - type: hero
+    title: Slavic Cultures Association
+    subtitle: at the University of Maryland
+    image: /img/base/mckeldin.jpg
+    align: left
+  - type: text
+    content: |
+      Welcome to the Slavic Cultures Association!
+
+      We are a 

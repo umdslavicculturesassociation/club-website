@@ -1,0 +1,10 @@
+---
+import { marked } from "marked";
+const { content } = Astro.props;
+
+const htmlContent = marked.parse(content);
+---
+
+<section>
+    <p set:html={htmlContent} />
+</section>
